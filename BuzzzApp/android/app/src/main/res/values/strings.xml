@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BuzzzApp</string>
+    <string name="location_service_channel_name">Location Service</string>
+</resources>
