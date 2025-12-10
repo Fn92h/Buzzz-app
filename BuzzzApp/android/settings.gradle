@@ -1,0 +1,4 @@
+rootProject.name = 'BuzzzApp'
+apply from: file("../node_modules/react-native-gradle-plugin/src/main/groovy/com/facebook/react/settings.gradle")
+applyNativeProjectsSettings(project)
+include ':app'
